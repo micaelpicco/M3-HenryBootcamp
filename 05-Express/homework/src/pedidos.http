@@ -1,0 +1,11 @@
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "author": "tolkien",
+  "title": "lor",
+  "contents": "anillitos por doquier"
+}
+
+###
+
